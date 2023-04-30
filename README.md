@@ -1,6 +1,9 @@
 # Personal Website
 
-This is the source code for my personal website, which is built using Blazor, MudBlazor, and the MVVM architecture. The main source code is kept in the `IngaleOmkar.github.io` repository, which has a deployment on GitHub Pages. This repository is used for Azure deployment.
+This is the source code for my personal website, which is built using Blazor, MudBlazor, and the MVVM architecture. The main source code is kept in the `IngaleOmkar.github.io` repository, which has a deployment on GitHub Pages. This repository is used for Azure deployment. The website can be found on the following links:
+
+- https://yellow-meadow-0446ede03.3.azurestaticapps.net
+- https://IngaleOmkar.github.io
 
 ## Getting Started
 
